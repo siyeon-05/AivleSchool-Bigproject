@@ -27,6 +27,7 @@
 - JWT 기반 로그인 인증
 - 투자 라운지 게시판 CRUD 기능
 
+---
 ### 메인 화면
 <img width="959.5" height="472" alt="Image" src="https://github.com/user-attachments/assets/4d35b58d-be44-4185-8f1a-5ed6dd27cf0a" />
 
@@ -47,5 +48,14 @@
 ### 1. 서비스 아키텍처
 <img width="959" height="491" alt="Image" src="https://github.com/user-attachments/assets/e0d6b2e1-72d5-4519-ad06-e3ac56949b74" />
 
-### 2. 사이트
+### 2. Frontend Contribution
+- React + Vite 기반 프론트엔드 개발
+- 브랜드 컨설팅 인터뷰 UI/UX 구현
+- 단계별 진행 흐름 및 상태 관리 설계
+- Axios 기반 REST API 연동
+- JWT 인증 처리 및 사용자 상태 관리
+- localStorage 기반 진행 상태 저장 기능 구현
+- 게시판 UI 및 API 연동 구현
+
+### 3. 사이트
 https://aibrandpilot.com/
