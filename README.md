@@ -16,7 +16,16 @@
 | **정현호** | AI | • 텍스트, 이미지 Agent 개발 <br> • Prompt 구조화
 
 
+## 주요 기능
 
+- 생성형 AI 기반 브랜드 컨설팅 제공
+- 기업 진단 결과 기반 브랜드 네이밍 생성
+- 브랜드 컨셉 및 스토리 자동 생성
+- AI 기반 로고 및 이미지 생성
+- 단계별 컨설팅 진행 상태 관리
+- 사용자 진행 데이터 저장 및 이어하기 기능
+- JWT 기반 로그인 인증
+- 투자 라운지 게시판 CRUD 기능
 
 ### 메인 화면
 <img width="959.5" height="472" alt="Image" src="https://github.com/user-attachments/assets/4d35b58d-be44-4185-8f1a-5ed6dd27cf0a" />
