@@ -35,5 +35,7 @@
 
 ---
 
-### 서비스 아기텍처
+### 1. 서비스 아키텍처
 <img width="959" height="491" alt="Image" src="https://github.com/user-attachments/assets/e0d6b2e1-72d5-4519-ad06-e3ac56949b74" />
+### 2. 사이트
+https://aibrandpilot.com/
